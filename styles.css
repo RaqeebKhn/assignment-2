@@ -1,0 +1,62 @@
+.green {
+    background-color: green;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.white {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+h1 {
+    padding: 20px;
+    display: inline;
+}
+
+.nav-div {
+   float: right;
+}
+
+nav ul {
+    list-style: none;
+    padding: 9px;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+li {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+a {
+    color: #000;
+}
+
+.one, .two, .three {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    vertical-align: top;
+    background-color: #c6bebe;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-left: 40;
+    border-right: 40px;
+}
+
+.father {
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+div p {
+    padding-left: 50px;
+    padding-right: 50px;
+}
